@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/nitro-nitf/code/!svn/ver/1104/trunk/c/nitf/unittests
+END
+test_mem_source.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/nitro-nitf/code/!svn/ver/941/trunk/c/nitf/unittests/test_mem_source.c
+END
+test_zero_field.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/nitro-nitf/code/!svn/ver/941/trunk/c/nitf/unittests/test_zero_field.c
+END
+test_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/nitro-nitf/code/!svn/ver/941/trunk/c/nitf/unittests/test_create.c
+END
+test_create_nitf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/nitro-nitf/code/!svn/ver/1085/trunk/c/nitf/unittests/test_create_nitf.c
+END
+test_field.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/nitro-nitf/code/!svn/ver/941/trunk/c/nitf/unittests/test_field.c
+END
+Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/nitro-nitf/code/!svn/ver/941/trunk/c/nitf/unittests/Test.h
+END
